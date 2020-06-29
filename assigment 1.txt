@@ -1,0 +1,12 @@
+Relative positioning: 
+positioning the element relatively to right/left/bottom/top
+Absolute positioning:
+is positioned relative to the nearest positioned ancestor
++
++
++
++
+The difference between Padding and Margin is that
+margin is the space around an element and padding refers
+to the space between an element and the content
+inside it.
